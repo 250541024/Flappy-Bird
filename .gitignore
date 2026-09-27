@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Derleme çıktıları
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
